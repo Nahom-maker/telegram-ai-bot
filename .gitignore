@@ -1,0 +1,38 @@
+# 🚨 Secrets (VERY IMPORTANT)
+.env
+.env.local
+.env.*.local
+
+# 📦 Dependencies
+node_modules/
+
+# 🧠 Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🧪 Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# 💻 OS junk
+.DS_Store
+Thumbs.db
+
+# 🧪 Coverage reports (if you test later)
+coverage/
+
+# ⚙️ Build output (if you expand project later)
+dist/
+build/
+
+# 🧠 Optional editor stuff
+.vscode/
+.idea/
+
+# 🔥 Optional: local cache
+.cache/
